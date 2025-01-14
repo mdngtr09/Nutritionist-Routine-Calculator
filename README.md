@@ -1,5 +1,5 @@
 Nutritionist Routine Calculator
-Description:
+
 A desktop application designed to assist nutritionists in performing routine calculations efficiently. This software provides essential features such as BMI calculation, basal and total caloric expenditure, and macronutrient recommendations. It simplifies the nutritionist's workflow by automating these common calculations.
 
 Features Implemented:
